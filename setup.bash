@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Akira Watanabe
+#written by A.Watanabe
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers
